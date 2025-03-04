@@ -1,0 +1,4 @@
+date,winner1,winner2,winner3,loser1,loser2,loser3,bans,champ1,champ2,champ3
+2025-03-01,Alice,Bob,Charlie,David,Eve,Frank,"Zed,Yasuo,Teemo",Lux,Ahri,Ezreal
+2025-03-02,Bob,Alice,David,Charlie,Eve,Frank,"Darius,Leona,Sett",Jinx,Annie,Thresh
+2025-03-03,Eve,Charlie,Frank,Alice,Bob,David,"Jhin,Seraphine,Malzahar",Vayne,Leona,Karma

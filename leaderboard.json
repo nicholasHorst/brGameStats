@@ -1,0 +1,59 @@
+{
+	"Alice" : 
+	{
+		"best_champions" : 
+		[
+			"Sett\"",
+			"Yasuo"
+		],
+		"best_teammate" : "Bob",
+		"win_percentage" : 100
+	},
+	"Bob" : 
+	{
+		"best_champions" : 
+		[
+			"Leona",
+			"Teemo\""
+		],
+		"best_teammate" : "Alice",
+		"win_percentage" : 100
+	},
+	"Charlie" : 
+	{
+		"best_champions" : 
+		[
+			"Lux",
+			"Malzahar\""
+		],
+		"best_teammate" : "Alice",
+		"win_percentage" : 100
+	},
+	"David" : 
+	{
+		"best_champions" : 
+		[
+			"Jinx"
+		],
+		"best_teammate" : "Alice",
+		"win_percentage" : 100
+	},
+	"Eve" : 
+	{
+		"best_champions" : 
+		[
+			"Seraphine"
+		],
+		"best_teammate" : "Charlie",
+		"win_percentage" : 100
+	},
+	"Frank" : 
+	{
+		"best_champions" : 
+		[
+			"Vayne"
+		],
+		"best_teammate" : "Charlie",
+		"win_percentage" : 100
+	}
+}
